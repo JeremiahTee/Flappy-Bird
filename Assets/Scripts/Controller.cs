@@ -32,6 +32,8 @@ public class Controller : MonoBehaviour {
 				Instantiate (obs4, new Vector2(PositionNewObstacle.transform.position.x, obs4.transform.position.y), Quaternion.identity);
 				break;
 			}
+				
+		Destroy (collision.gameObject);
 		}
 	}
 }

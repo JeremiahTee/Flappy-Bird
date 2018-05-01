@@ -1,0 +1,1541 @@
+fileFormatVersion: 2
+guid: 9ee273178d4049b42a6dd58cbd8e1506
+timeCreated: 1525130558
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlassetsNew_0
+    21300002: FlassetsNew_1
+    21300004: FlassetsNew_2
+    21300006: FlassetsNew_3
+    21300008: FlassetsNew_4
+    21300010: FlassetsNew_5
+    21300012: FlassetsNew_6
+    21300014: FlassetsNew_7
+    21300016: FlassetsNew_8
+    21300018: FlassetsNew_9
+    21300020: FlassetsNew_10
+    21300022: FlassetsNew_11
+    21300024: FlassetsNew_12
+    21300026: FlassetsNew_13
+    21300028: FlassetsNew_14
+    21300030: FlassetsNew_15
+    21300032: FlassetsNew_16
+    21300034: FlassetsNew_17
+    21300036: FlassetsNew_18
+    21300038: FlassetsNew_19
+    21300040: FlassetsNew_20
+    21300042: FlassetsNew_21
+    21300044: FlassetsNew_22
+    21300046: FlassetsNew_23
+    21300048: FlassetsNew_24
+    21300050: FlassetsNew_25
+    21300052: FlassetsNew_26
+    21300054: FlassetsNew_27
+    21300056: FlassetsNew_28
+    21300058: FlassetsNew_29
+    21300060: FlassetsNew_30
+    21300062: FlassetsNew_31
+    21300064: FlassetsNew_32
+    21300066: FlassetsNew_33
+    21300068: FlassetsNew_34
+    21300070: FlassetsNew_35
+    21300072: FlassetsNew_36
+    21300074: FlassetsNew_37
+    21300076: FlassetsNew_38
+    21300078: FlassetsNew_39
+    21300080: FlassetsNew_40
+    21300082: FlassetsNew_41
+    21300084: FlassetsNew_42
+    21300086: FlassetsNew_43
+    21300088: FlassetsNew_44
+    21300090: FlassetsNew_45
+    21300092: FlassetsNew_46
+    21300094: FlassetsNew_47
+    21300096: FlassetsNew_48
+    21300098: FlassetsNew_49
+    21300100: FlassetsNew_50
+    21300102: FlassetsNew_51
+    21300104: FlassetsNew_52
+    21300106: FlassetsNew_53
+    21300108: FlassetsNew_54
+    21300110: FlassetsNew_55
+    21300112: FlassetsNew_56
+    21300114: FlassetsNew_57
+    21300116: FlassetsNew_58
+    21300118: FlassetsNew_59
+    21300120: FlassetsNew_60
+    21300122: FlassetsNew_61
+    21300124: FlassetsNew_62
+    21300126: FlassetsNew_63
+    21300128: FlassetsNew_64
+    21300130: FlassetsNew_65
+    21300132: FlassetsNew_66
+    21300134: FlassetsNew_67
+    21300136: FlassetsNew_68
+    21300138: FlassetsNew_69
+    21300140: FlassetsNew_70
+    21300142: FlassetsNew_71
+    21300144: FlassetsNew_72
+    21300146: FlassetsNew_73
+    21300148: FlassetsNew_74
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlassetsNew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144, y: 256}
+        - {x: -144, y: -256}
+        - {x: 144, y: -256}
+        - {x: 144, y: 256}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144, y: 256}
+        - {x: -144, y: -256}
+        - {x: 144, y: -256}
+        - {x: 144, y: 256}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 912
+        width: 336
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 56}
+        - {x: -168, y: -56}
+        - {x: 168, y: -56}
+        - {x: 168, y: 56}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 976
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 24}
+        - {x: -38, y: -24}
+        - {x: 37, y: -24}
+        - {x: 38, y: -22}
+        - {x: 38, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1004
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -6}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_5
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 980
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 944
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 14}
+        - {x: -40, y: -14}
+        - {x: 40, y: -14}
+        - {x: 40, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_7
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 952
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 912
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 14}
+        - {x: -40, y: -14}
+        - {x: 40, y: -14}
+        - {x: 40, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 920
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -1}
+        - {x: -3, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 844
+        width: 196
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 32}
+        - {x: -98, y: -32}
+        - {x: 98, y: -32}
+        - {x: 98, y: 32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 852
+        width: 204
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 27}
+        - {x: 52, y: 24}
+        - {x: 44, y: 28}
+        - {x: -102, y: 28}
+        - {x: -102, y: -28}
+        - {x: 97, y: -28}
+        - {x: 102, y: -25}
+        - {x: 102, y: 23}
+        - {x: 79, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 868
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 814
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 4}
+        - {x: -5, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 818
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 10}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 794
+        width: 178
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: 24}
+        - {x: -89, y: -19}
+        - {x: -61, y: -24}
+        - {x: 51, y: -24}
+        - {x: 89, y: -21}
+        - {x: 89, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 810
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 2}
+        - {x: -3, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_17
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 790
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -7, y: 4}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 3}
+        - {x: 3, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 721
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 35.5}
+        - {x: -60.5, y: 29.5}
+        - {x: -60.5, y: -35.5}
+        - {x: 60.5, y: -35.5}
+        - {x: 60.5, y: 32.5}
+        - {x: 59.5, y: 35.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 758
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 9}
+        - {x: -21, y: -9}
+        - {x: 15, y: -9}
+        - {x: 21, y: -3}
+        - {x: 21, y: 3}
+        - {x: 15, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_21
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 744
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -6, y: 12}
+        - {x: -10, y: 4}
+        - {x: -10, y: -13}
+        - {x: -6, y: -18}
+        - {x: 10, y: -18}
+        - {x: 10, y: 16}
+      - - {x: -10, y: 14}
+        - {x: -10, y: 8}
+        - {x: -8, y: 8}
+        - {x: -6, y: 10}
+        - {x: -6, y: 12}
+        - {x: -8, y: 14}
+      - - {x: -6, y: 18}
+        - {x: -6, y: 12}
+        - {x: -4, y: 10}
+        - {x: -2, y: 10}
+        - {x: 0, y: 12}
+        - {x: 0, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_22
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 758
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 9}
+        - {x: -21, y: 3}
+        - {x: -21, y: -3}
+        - {x: -15, y: -9}
+        - {x: 21, y: -9}
+        - {x: 21, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 712
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 14}
+        - {x: -40, y: -14}
+        - {x: 40, y: -14}
+        - {x: 40, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 712
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -14}
+        - {x: -6, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -7}
+        - {x: -4, y: -16}
+        - {x: -2, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_33
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 12, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_35
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 592
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 520
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116, y: 64}
+        - {x: -120, y: 60}
+        - {x: -120, y: -61}
+        - {x: -115, y: -64}
+        - {x: 108, y: -64}
+        - {x: 120, y: -61}
+        - {x: 120, y: 60}
+        - {x: 116, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 416
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 392
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 160}
+        - {x: -26, y: -160}
+        - {x: 26, y: -160}
+        - {x: 26, y: 160}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 4}
+        - {x: -17, y: -8}
+        - {x: -11, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 364
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -12}
+        - {x: 0, y: -12}
+        - {x: 0, y: -10}
+        - {x: -2, y: -8}
+        - {x: -4, y: -8}
+      - - {x: -4, y: 12}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 10}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 312
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 294
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_53
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 238
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 8}
+        - {x: -17, y: -12}
+        - {x: 17, y: -12}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 260
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -5}
+        - {x: -3, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -5, y: 3}
+        - {x: -5, y: -3}
+        - {x: -3, y: -5}
+        - {x: 3, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 3}
+        - {x: 3, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 186
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 4}
+        - {x: -17, y: -8}
+        - {x: -11, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_59
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -2}
+        - {x: -2, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 134
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 10}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 74
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 78
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -8, y: -17}
+        - {x: -7, y: -18}
+        - {x: 8, y: -18}
+        - {x: 8, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -22, y: 18}
+        - {x: -22, y: -15}
+        - {x: -21, y: -16}
+        - {x: -12, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -18}
+        - {x: 22, y: 18}
+        - {x: 18, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 50
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 10}
+        - {x: -5, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 8}
+        - {x: -17, y: -12}
+        - {x: 17, y: -12}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_69
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 4}
+        - {x: -17, y: -8}
+        - {x: -11, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: 15, y: -12}
+        - {x: 17, y: -11}
+        - {x: 17, y: 10}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -17, y: 8}
+        - {x: -17, y: -12}
+        - {x: 17, y: -12}
+        - {x: 17, y: 4}
+        - {x: 12, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FlassetsNew_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 10}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
