@@ -18,7 +18,7 @@ public class SmizeJump : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetMouseButtonDown (0)) {
-			smize.velocity = new Vector2(0, 3);
+			smize.velocity = new Vector2(0, 3.5f);
 		}
 
 		scoreText.text = score.ToString ();
